@@ -141,11 +141,10 @@ PLATFORMS
 
 DEPENDENCIES
   bootstrap-sass (~> 2.3.2.0)
-  cocaine
   coffee-rails (~> 3.2.1)
   devise
   jquery-rails
-  paperclip
+  paperclip (~> 3.0)
   pg
   rails (= 3.2.12)
   rspec-rails (~> 2.0)
